@@ -1,0 +1,18 @@
+From: Vincent On <knon@deakin.edu.au>
+To:  Jun Zhang <jun.zhang@deakin.edu.au>
+Subject: Network Traffic Classification
+Message:
+
+Hi Dr Jun Zhang,
+I currently studying the SIT384 unit and doing assignment 1. 
+I am having a trouble understanding why noisy images can severely affect the retrieval performance from your article: Medical Image Retrieval Based on Image Bags.
+I have also read your references but they don't really help. 
+I contaced Doctor Yang Xiang and he refers me to you.
+Would you mind if I come to your office on Monday and ask you a few questions?
+Can you also have a look at my report that I am doing?
+Please find my report attacted below.
+
+
+Kind Regards,
+Vincent On
+

@@ -1,0 +1,8 @@
+Dear Dr Jun,
+My name is Anita and I am a work colleague of Bin Zhao at Purdue University, Indiana. The reason I am emailing you is, as Bin has suggested, to have some feedback on my current research paper on watermarking and the Okamoto-Uchiyama cryptosystem. Kuribayashi and Tanaka’s scheme in quantization-based methods whilst watermarking using this cryptosystem has been a major part of my research for the past 2 years and I was looking for someone in the same field that knew it well enough to have a glance over my paper. Bin suggested you as he mentioned you had worked on the paper ‘Effective watermarking scheme in the encrypted domain for buyer-seller watermarking protocol’ and part 3 and also 4.2.2 of that paper was directed at the Okamoto-Uchiyama cryptosystem.
+If you were able to have a read of my attached paper I would be very grateful and if you were interested in becoming a co-author in this paper I would also be very inclined to work with someone who is similarly minded in the same field.
+
+If you have time to have a read, please let me know what you think.
+
+Regards,
+Anita Winchester

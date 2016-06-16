@@ -1,0 +1,11 @@
+Dear (UserName),
+Policy changes around security of our 2016 user accounts now asks that we ask you to update your password details every 72 days. 
+You currently have 14 days left too login to your account and update your password before the account becomes locked. 
+To login in please follow this link: http://library.bitly/externalportal.com.au/
+If you are not able to login, please send an email to support@locallibrary.com.au
+Regards,
+John Doe
+Local Library
+Local Town
+(03) 52-211-442
+support@locallibrary.com.au

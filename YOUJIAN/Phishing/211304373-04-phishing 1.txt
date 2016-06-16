@@ -1,0 +1,14 @@
+To Dr. Zhang
+
+As a member of IEEE, we try our best to inform you of the most current 
+and effective security packages for your system. We have just released 
+an internet security package for IEEE members only, in collaboration 
+with Symantec. We highly recommend you install this package to secure 
+your computer system from online attacks. The attached executable will 
+install a download manager onto your system, as the file is too large to 
+attach. 
+
+We hope you enjoy your new and free security package.
+
+IEEE
+

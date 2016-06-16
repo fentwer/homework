@@ -1,0 +1,7 @@
+Hello Dr Zhang,
+My name is Zeke and I am a student in unit SIT384. I am just wondering if you are able to assist me in a few queries that I have about assignment one on corporate computer and network security.
+In number 6 of what our report should include, it states that it needs a ‘technical demonstration chapter which consists of fully explained screenshots when a successful attack is conducted.’ From my understanding and that of my partner in this assignment, we are to demonstrate an attack from a Kali Linux machine to a windows machine? In other words, an attack from an attacker’s point of view and showing what they would write and then showing what would happen to the victim? In practical 3 we went through how a malicious PDF could be used to create this attack and from my understanding this is what we have to demonstrate in part 6 of the report. Could you please clarify this?
+Unfortunately some aspects of this assignment are a little vague and we are having a little trouble understanding certain parts but mainly getting stuck on the technical demonstration chapter and what we should demonstrate exactly.
+Thank you in advance.
+Zeke N. Yeshallfind
+Student ID: 20162015

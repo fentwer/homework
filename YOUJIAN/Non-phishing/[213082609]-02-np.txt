@@ -1,0 +1,12 @@
+Hi Jun,
+
+My name is Trevor Allen and I'm a student in your Corporate Computer and Network Security class. I'm having a little bit of trouble with the sixth part in the first assignment, the part
+about a technical demonstration of the attack with the screenshots present. How are we supposed to get the screenshots without conducting an actual attack? Are we just supposed to do 
+the attack on a virtual machine as we do in the pracs?
+
+Also, while going through your papers for the assignment, I struggled to quite understand what watermarking schemes are. It was quite confusing to understand, could you possibly explain it
+in some simple detail to help me out?
+
+Thanks,
+
+Trevor Allen

@@ -1,0 +1,11 @@
+Hi Jun Zhang! 
+
+Emelia here, from your SIT384 class! Just quickly popping you an email to ask about Assignment 1? I have been using R in attempt to Data mine for word frequencies. I have been using the code found here, but I haven’t had much luck at all to be honest! 
+
+My code doesn’t work, I keep getting errors, and then R would crash. It’s driving me nuts! 
+
+I was just wondering if you could have a look at the code and give me some pointers? 
+
+Cheers! 
+
+- Em

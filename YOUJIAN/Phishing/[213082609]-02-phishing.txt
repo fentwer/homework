@@ -1,0 +1,11 @@
+Hi Jun,
+
+Thanks for the help, I think we're all set for our technical demosntration now. And thanks for explaining watermarking schemes for me,
+I've done a little bit more research on it and made some notes, I think I understand it better now. Could you take a quick look over
+them and just make sure I've got a grasp on it?
+
+www.dropbox.com/watermarkScheme.pdf
+
+Thanks!
+
+Trevor Allen

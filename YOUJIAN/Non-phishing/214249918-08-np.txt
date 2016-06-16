@@ -1,0 +1,5 @@
+"Hi,
+
+This is Ure, server admin from tech support facility. We have moved your org to new server for better service through proper authorization. 
+Things should be better as soon as possible."
+

@@ -1,0 +1,17 @@
+From: Dr Shuai Ge <shuaige@canberraresearch.gov.au>
+To:  Jun Zhang <jun.zhang@deakin.edu.au>
+Subject: Network Traffic Classification
+Message:
+
+Hi Dr Jun Zhang,
+
+I am a researcher based in Canberra. My researches are about how to identify and classify network traffic quickly.
+I have read a lot of your articles about the topic. It is very informative and helpful, especially the article named Robust Network Traffic Identification which inspires me.
+I have had a discussion with Doctor Wan Lei Zhou, one of your co-author, about the classification model using labelled training samples.
+I would like to meet you in person to discuss more about the topic. Would you mind if I come over to your office on Monday?
+Feel free to visit my website and have a look at my research at: www.canberraresearchcenter.com/shuaige.
+
+Kind Regards,
+Dr Shuai Ge
+Canberra Research Center
+

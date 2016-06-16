@@ -1,0 +1,4 @@
+SCADA (supervisory control and data acquisition)
+SCADA (supervisory control and data acquisition) is a category of software application program for process control, the gathering of data in real time from remote locations in order to control equipment and conditions. SCADA is used in power plants, as well as in oil and gas refining, telecommunications, transportation, and water and waste control.
+SCADA systems include hardware and software components. The hardware gathers and feeds data into a computer that has SCADA software installed. The computer then processes this data and presents it in a timely manner. SCADA also records and logs all events into a file stored on a hard disk, or sends them to a printer. SCADA warns when conditions become hazardous by sounding alarms.
+

@@ -1,0 +1,14 @@
+From: Marc Jacobs <marcjacobs@deakin.edu.au> 
+To: Jun Zhang, <Jun.Zhang@deakin.edu.au>
+Subject: Help on Networking Assignment
+
+Message: 
+
+
+Hi Sir,
+I am a new student of Deakin University and I am doing Bachelor of IT, major in Networking.
+I’m emailing you regarding one of your articles titled “Modeling and analysis on the propagation dynamics of modern email malware”.
+Attached herewith is a program that I have created that I think would interest you as they contain some interesting information and performance schemes in regards to email malware. 
+If there’s anything similar or any similarity with other softwares in the market. Please let me know. Thank you.
+
+Marc Jacobs

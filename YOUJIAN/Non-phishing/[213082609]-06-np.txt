@@ -1,0 +1,10 @@
+Dr. Jun Zhang
+
+I am Dr. James Percy from Sydney. Recently, I have been writing a paper on watermarking schemes that I intend to publish. During my research, I have come across your own
+proposed watermarking scheme, as outlined in "Effective watermarking scheme in the encrypted domain for buyer?seller watermarking protocol." This proposed theory has interested
+me greatly , and I plan to include it in my own paper. I would like your thoughts on your theory, whether you would have changed or updated it in anyway now that it is 6 years old.
+Any other information that you would be able to give me could greatly help me with my paper, and I would love to include some of your own comments on it within the paper.
+
+Thankyou,
+
+Dr. James Percy

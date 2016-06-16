@@ -1,0 +1,15 @@
+Hello Dr Jun Zhang
+
+My name is John Smith and I was a past research student studying computer science at the University of Ottawa.
+Currently I am in the process gathering information and writing my dissertation for my honours degree and a few questions regarding a the following topic
+As I was previously a student researching under the guidance of a fellow colleague and co-author of 'Security and reliability in big data', Professor Ivan Stojmenovic. 
+I was hoping that would be able to spare some time to assist with some issues.
+The topic for my dissertation is big data and how security within the traffic of a network, from node to node, 
+is deemed reliable and how algorithms can be used as a method of detection to determine if network protocols are secure.
+I have attached a draft copy of the relevant information,data and dissertation which you can proof read analyse and 
+possibly help with in order to bring my knowledge and understanding of the information to a fullfilled response.
+
+
+Regards
+
+John Smith

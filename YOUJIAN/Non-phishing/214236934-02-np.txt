@@ -1,0 +1,12 @@
+Dear Dr JUN ZHANG,
+
+This email is to inform you that you have exceeded your home directory disk quota of 5.22GB. You have been provisioned with additional space to allow you to continue working for the time being.
+
+A reminder email will be sent each day while you remain at or over your allocated quota, and if you remain over quota for 7 days, this additional space will be revoked.
+
+To find out how much space you are using, navigate to My Computer, Right Click on H: and select properties. If this displays a value over 5.22GB, you must remove some files or risk having them lost.
+
+
+Regards,
+
+IT Service Desk

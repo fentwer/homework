@@ -1,0 +1,13 @@
+From: Kesh Devananthan <kdevanan@deakin.edu.au> 
+To: Jun Zhang <Jun.Zhang@deakin.edu.au> 
+Subject: Help on Assignment 1!!!
+
+Message: 
+
+Dear, Dr Zhang 
+I was wandering if I could come see you around 12:30pm at your office tomorrow? It is to get some advice on how I could incorporate the data frequency of terms from R-Portable to create a Word Cloud for Assignment 1 in SIT384.
+
+Thanks ,
+
+
+Kesh Devananthan

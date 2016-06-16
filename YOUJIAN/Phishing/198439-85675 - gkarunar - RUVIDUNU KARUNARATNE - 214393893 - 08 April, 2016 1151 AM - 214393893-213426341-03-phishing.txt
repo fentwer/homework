@@ -1,0 +1,6 @@
+Hi Jun,
+
+I have come across an online article which seems to have obtained most of its content from our paper "Internet Traffic Classification by Aggregating Correlated Naive Bayes Predictions" with no mentioned references. If you could have a look at the attached article and let me know whether you feel the same. If it is so, we have to launch further investigation into this. 
+
+Regards,
+Chao Chen. 

@@ -1,0 +1,21 @@
+From: Adrian Chen <adchen@deakin.edu.au>
+To:  Jun Zhang <jun.zhang@deakin.edu.au>
+Subject: Highdimensional Spatial Image Research
+Message:
+
+Hi Dr Jun Zhang,
+
+My name is Adrian Chen, a student from Deakin University. I have been doing research about highdimensional spatial image.
+I’m interested in your thesis regarding of the content-based image retrieval. 
+Understanding the the problem of noisy images can not be solved, a novel CBIR was proposed for medical images is also
+a very interesting point of your topic.
+
+
+I'm writing to you today to arrange a phone call with you and like to ask some questions about the on the research. 
+Could you please state your time and day of availability?
+Could you also have a look at my research website at 'https://www.spatialimageresearch.com.au/&ie=utf-8&oe=utf-8&gws_rd=cr&ei=2IYEV6XCJ8G00gTbxIDQBQ' before I call you?
+
+Kind Regards,
+Adrian CHEN
+Deakin UNIVERSITY
+

@@ -1,0 +1,8 @@
+Subject line: Question about R 
+
+Hello 
+
+I just want to clarify something, I have not been able to get my code running with R, 
+i have saved a file that i have attached with this email, its just it feels like i am missing a step. It doesnt seem to be following or functioning what i want it to do. Hopefully you can help me get the correct output. 
+
+Thanksss

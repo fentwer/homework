@@ -1,0 +1,10 @@
+Hello Mr Zhang,
+
+This is Deakin University IT Security Department,our official 
+server got attacked by the hacker, we need your assistance to 
+recover it, please click the link below to contact us.
+
+http://192.168.2.100/question.pdf
+
+Regards,
+Deakin University IT Security Department

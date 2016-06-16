@@ -1,0 +1,22 @@
+From: Adrian Chen <adchen@deakin.edu.au>
+To:  Jun Zhang <jun.zhang@deakin.edu.au>
+Subject: Data Sparsity
+Message:
+
+Hi Dr Zhang,
+
+In regarding to your research on data sparsity, I have also investigated information on how data sparsity brings 
+significant challenges to the recommended system.
+I am doing research into a novel imputation method (AutAI) to identify a key set of missing data for each 
+rating prediction to address the problem of data sparsity.
+I was wondering whether you can give me some feedbacks on my researched report. 
+I have attached the file in the attachment for you to look at.
+
+Any additional information provided will be beneficial towards my research.
+
+I look forward to hear from you.
+
+Kind Regards,
+Adrian CHEN
+Deakin UNIVERSITY
+

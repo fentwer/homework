@@ -1,0 +1,17 @@
+CommBank has performed transfers as follows:
+
+From: J ZHANG ######01
+
+To: J ZHANG ######02
+
+Amount: $300.00
+Fee: 0
+Receipt No: 123453235
+Authorised: MR J ZHANG
+Date: 15 Mar 2016
+Time: 5:45pm
+
+
+DISCLAIMER: This email and any attachments may contain confidential and/pr privileged information and is intended solely for the named addressee.
+
+Please contact us immediately at info@commbank.com.au if you have recieved this message in error.

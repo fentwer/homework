@@ -1,0 +1,9 @@
+Good morning Dr. Jun Zhang,
+My name is Frank White. I am a senior network engineer at Tennis Australia.
+As we are a large organisation, we need to make sure our systems are always updated, ensure data is easily accessible and there are little to no security threats. Zero day exploits are hard to manage as the vendor will be unaware of the security hole.
+I am interested in learning more about Zero-Day Traffic Identification which you have written about.
+
+Please find attached a PDF of reporting I have done regarding this topic, which you may be interested in.
+
+Hope to hear from you soon,
+Frank White

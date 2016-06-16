@@ -1,0 +1,14 @@
+Hi sir,
+There are some questiones about your research
+
+- Could you introduce some reference book or article for me to know more about waterframing scheme?
+
+- How can I put encryption algorithm into practice?
+
+- How can improve CBIR system in shooping website?
+
+Thanks for your help.
+
+Regards,
+
+Kyle

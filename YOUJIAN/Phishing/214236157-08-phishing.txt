@@ -1,0 +1,5 @@
+Hello Dr. Jun Zhang,
+
+I am doing some reasearch work on image retrieval. I have shown my work to Dr.Y Huang. He appreciated my work and asked me to show my work to you. I would really appreciate your views on this as I have been working on this since late 2010 when I read your paper regarding query-dependent feature fusion.
+
+Thank you

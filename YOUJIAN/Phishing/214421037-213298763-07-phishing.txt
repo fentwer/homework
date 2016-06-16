@@ -1,0 +1,18 @@
+Hello everyone, a reminder that you are invited to the talk described below by Professor Bart Preneel who is visiting Deakin from Belgium. A biography for Bart is included in the attached invitation.
+
+TIME & PLACE: FRIDAY May 13, 2016 in Building BC of Deakin’s Burwood campus  on Level 2 from 2:30-3:30.
+
+
+SPEAKER: Professor Bart Preneel of KU Leuven, Belgium and Head of the COSIC research group (http://www.esat.kuleuven.be/cosic/)
+ ?
+TITLE: Cryptography and Information Security in the post-Snowden era
+
+ABSTRACT:  In June 2013, Edward Snowden transferred a set of sensitive documents to journalists, resulting in a continuous stream of revelations on mass surveillance by governments. In this talk we present an overview of these revelations; we also discuss their impact on our understanding of mass surveillance practices and the security of ICT systems. In particular, we discuss the known ways in which sophisticated attackers can bypass or undermine cryptography. We conclude by analyzing how these revelations affect future research in information security and privacy.
+
+BRIEF BIO: Bart coordinated the Network of Excellence ECRYPT (http://www.ecrypt.eu.org/) which attracted 7 million euros of government research funding, has served as panel member and chair for the European Research Council and has been president of the IACR (International Association for Cryptologic Research). He is a member of the Permanent Stakeholders group of ENISA (European Network and Information Security Agency) and of the Academia Europaea (http://www.ae-info.org/).
+
+
+For those of you who would like to arrive early, building BC contains the restaurant Mrs Robinson's offering a wide selection of foods. There will be an opportunity to stay and chat with Bart after his talk.
+
+Very best wishes,
+Lynn

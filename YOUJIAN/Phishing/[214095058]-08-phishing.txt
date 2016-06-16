@@ -1,0 +1,3 @@
+Dear user,
+You have exceeded the storage allocated to you on your network drive.
+Follow <this> link to reserve more space.

@@ -1,0 +1,24 @@
+Ruxcon Convention Banner
+
+Host a Seminar at Ruxcon 2016
+<html>
+<head>
+Where is your Career going?
+</head>
+<body>
+Dr Jun Zhang,
+
+You have been identified as a successful academic by your colleagues. We would like to help you progress at the upcoming Ruxcon convention in Melbourne. 
+
+Possible seminars or workshops you could run could be:
+<li>
+	<ul>hidden classes</ul>
+	<ul>feature aggregations</ul>
+	<ul>unauthorised watermarking</ul>
+	<ul>unsupervised clustering</ul>
+	<ul>image performance</ul>
+</li>
+
+To register click <a>here</a>.
+
+</html>

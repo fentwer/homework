@@ -1,0 +1,8 @@
+Good morning Jun,
+I thought you may be interested in this research paper on network traffic classification. Tony Rogers is a new name in the field but he seems take a similar opinion about the performance of NN classifiers and on the restrictions. An interesting read though and it is good to see some of the newer members of IEEE putting their research out.
+Let me know what you think about it. I am in my office until about 4.30 today if you wanted to come by after you have read it and we can discuss it. A little long read but I found for the most part it was a well thought out paper.
+Regards,
+Wanlei
+Professor Wanlei Zhou
+Associate Dean – Internation Research Engagement
+Deakin University

@@ -1,0 +1,5 @@
+Dear Lecturer,
+I'm having some issues with the assignment 3 question no 4, Do we have to briefly explain about the security measurments that we should take when implement a new server in a company?
+Pls help. Thank you
+Regards
+Vinod

@@ -1,0 +1,6 @@
+Dear Dr Zhang,
+
+I'm a huge fan of your work. I've been reading your article on a semi-supervised approach for network traffic clustering, and I find the subject matter really fascinating. I have started conducting my own research on this and written up some of my ideas. If you have the time, I would greatly appreciate some feedback on my article, which I have attached. 
+
+Kind Regards,
+Jack White.

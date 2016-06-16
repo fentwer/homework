@@ -1,0 +1,5 @@
+Hi Jun,
+My name is Tom, I’m undertaking my PhD at Wollongong University and am focusing on network traffic classifications. I found your research paper Robust Network Traffic Classification rather interesting on the topic. Could you please review my initial finding of defining traffic classes with respect to your works on zero-day application, please see attached.
+Any feedback will be very much appreciated.
+Regards,
+

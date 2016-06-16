@@ -1,0 +1,6 @@
+Dear Sir/Madam, 
+	As we know test classification has a good attention now-a-days in feature aggregation. the only problem we were facing in this scenario was to label negative examples.
+which was making semi- supervised and even supervised lwasrning techniques hard. But recent studies has found out that labeling negative example is possible. the research is almost at it ends. Only choosen very few authors are having the opportunity to veiw this unpublished research  now.
+As we have seen your few good articles about this topic, we are giving you the chance to get the research to be viewed and give your valueable review. If you are interested like many other authors please subscribe and give your details. We apologise for the information process as many fake researchers are trying to breach.
+
+www.link.com

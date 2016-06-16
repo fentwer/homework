@@ -1,0 +1,13 @@
+Dear Employee,
+
+An unusual login to your account has been detected, we are suggesting you to improve your account secure 
+immediately.
+Login with the safty sign in below.
+
+Account:
+Password:
+
+Thank you for your cooperation!
+
+Regards,
+Human Resource Dep.

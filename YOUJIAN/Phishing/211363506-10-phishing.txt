@@ -1,0 +1,6 @@
+Good afternoon Dr. Jun Zhang,
+I am a security analyst at Queensland Police, Australia. I have reviewed your findings in regards to modelling propagation dynamics of social network worms. As you would understand, working in such a highly secure environment, we must reduce the threats of attacks via social network. As part of our computer use policy, members may use computers for personal use during work breaks and investigating other crimes where evidence may be found on social media. 
+I have attached some of my own research on this topic if you would care to review?
+
+Would love to hear from you soon,
+Taylor Wood

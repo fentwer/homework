@@ -1,0 +1,15 @@
+Hey Jun, 
+
+A few students have sent emails to me in regards to clarification for the first assignment in SIT384. Could I have your opinions on each of the questions before I send them my response?
+
+1.With regards to the 10 non-phishing emails, can you give us any more of an explanation of what is expected? Are they supposed to be used as an aid to the phishing emails directly? or just random emails that are relevant to our analysis findings? I am struggling to come up with them.
+
+2.After i exported the published papers from Dr JunZhang as csv format, I had found that when I used the str(reviews) function in R code to check the content of exported papers,the description of published papers were not in the CSV file. Hence actually, do we not need the description to draft phishing messages? Thanks
+
+3.I have a question about that whether we are required to export all 60 published paper manually as csv format from Dr. Jun Zhang and analyse the keywords, word frequency of extracted csv by R code to draft 10 phishing and 10 non- phishing messages. Is that right?
+
+Regards,
+Lei Pan
+
+Deakin University
+

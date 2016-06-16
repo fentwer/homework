@@ -1,0 +1,12 @@
+Good afternoon Dr Zhang, 
+
+How are you? 
+
+This is Michael, I am apart of your Corporate and Network Security class. I just have a few questions in regards to Assignment 1. For question 5, I am having a lot of difficulty figuring out how to convert the PDFs into .txt files by using R? 
+
+I keep getting an error when I’m saving. I have attached my code and a screenshot of my error in this email. I was just wondering if you could help me figure out what is wrong? 
+
+Thank you, hope to hear from you soon.
+
+Regards, 
+Michael (ID: 210000000)

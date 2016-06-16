@@ -1,0 +1,16 @@
+CSIRO BANNER
+
+INVITATION TO GIVE A TALK
+<html>
+<head>
+INVITATION TO GIVE A TALK
+</head>
+<body>
+Dr Jun Zhang,
+
+The Information Technology research team has become interested in your research. Looking at your content based images, Query based image searchers, contributions to CBIR and internet traffic classification we would like to hear more. 
+
+This is a paid talk in a series of talks that CSIRO is granting to successful academics. To register a time please click <a>here</a>
+<body>
+
+</html>

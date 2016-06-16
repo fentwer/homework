@@ -1,0 +1,8 @@
+Hi Mr Zhang! 
+
+My name is Vanessa, and I take SIT384! I just wanted to quickly ask you a few questions in regards to Ass1! I just wanted to know, when we were writing the report, did would it be appropriate to use first person language? 
+
+And also, for question 5, I’ve been running into a lot of errors with counting word frequencies. I would just like to know if you’d be able to point me in the right direction, or link me to some good resources for to answer this?
+
+Thanks, 
+Van

@@ -1,0 +1,9 @@
+Hello Dr. Jun Zhang,
+I am John Doe. I'm currently a network executive at Smith's Accounting.
+I am currently researching methods of training supervised machines, the performance of them classifying data and your concept of flow correlation.
+I'm very interested in your findings in regards to traffic training inside network management and wish to join your research group. 
+
+Please see the attached pdf to see my own written work on this topic and its relevance.
+
+Looking forward to a reply,
+John Doe

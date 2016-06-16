@@ -1,0 +1,3 @@
+Dear user,
+You have received new mail from the sytem administrator.
+To protect system security, please respond by using <this> link.

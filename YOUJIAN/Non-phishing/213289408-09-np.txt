@@ -1,0 +1,7 @@
+vCloud Director will stop the vApp "vApp_jzhang_7” on Mar 14, 2016 at 8:09:43 PM EST.
+
+You can extend the runtime lease in the properties of vApp "vApp_jzhang_7”:
+
+
+_____________________________
+This is an automated email from VMware vCloud Director. Do not reply.

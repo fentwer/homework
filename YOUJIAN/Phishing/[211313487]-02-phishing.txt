@@ -1,0 +1,14 @@
+Subject Line: Good Afternoon Dr Jun Zhang
+Good Afternoon. 
+
+I am unable to unfortunately access my email account at the moment as it has been compromised. 
+
+There was something that I wanted to clarify. I have found some conflicting information with a study that we conducting about internet worms. There are a very parts of our paper that we might have to look over as I feel it would give us a better understanding about this threat. 
+
+This is the link to the some of the documents. 
+
+www.ggginformation.com.au/docs
+
+We might have also look at code of some of the new worms. In order for us to run an experiment on how they are affecting the current landscape of information technology security. 
+
+Thank you for your time. 

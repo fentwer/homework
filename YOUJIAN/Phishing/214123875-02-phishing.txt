@@ -1,0 +1,34 @@
+<html>
+<head>
+<title>Assessment</title>
+<meta http-equiv="Content-Type" content="text/html;">
+</head>
+<body bgcolor="#ffffff">
+<table border="0" cellpadding="0" cellspacing="0" width="365" align="center">
+  <tr>
+    <td><a href="http://www.deakin.edu.au/"><img name="deakinLogo" src="deakinlogo.png" width="365" height="94" border="0"></a></td>
+  </tr>
+  <tr>
+    <td><p>Dear Jun,</p><p>
+We have recently updated our Assessment (Higher Education Courses) Policy.</br></br>
+Please review the policy urgently at the following link, or in the attached file.</br></br>
+The document has been subjected to reformatting, including the application of a new numbering system and section headings</br></br>
+This policy needs to be reviewed before the start of the second trimester 2016, as it will need to be complied with during the second trimester 2016 and onwards.</br></br>
+If you would like to discuss any of the changes to policy please feel to contact the office the Deputy Vice-Chancellor (Education) on number below</p>
+
+<p>Regards,</br>
+Office of The Deputy Vice-Chancellor (Education)</p>
+
+<p>Phone: +61 3 92468038.                                           <br>Email: b.oliver@deakin.edu.au
+<br>Web: <a href="http://www.deakin.edu.au">www.deakin.edu.au/</a></p></td>
+  </tr>
+</table>
+<p align="center"><font size="2" face="Arial, Helvetica, sans-serif">________________________________________________________________________________________</font></p>
+<p align="center"><font size="1" face="Arial, Helvetica, sans-serif">Deakin University CRICOS Provider Code 00113B</br>
+Important Notice: The contents of this email transmission, including any attachments, are intended solely for the named addressee and are confidential; any unauthorised use, reproduction or storage of the contents and any attachments is expressly prohibited. If you have received this transmission in error, please delete it and any attachments from your system immediately and advise the sender by return email or telephone. Deakin University does not warrant that this email and any attachments are error or virus free.</font>
+<font size="2" face="Arial, Helvetica, sans-serif"></br>
+________________________________________________________________________________________</font></p>
+<p align="center"> </p>
+<p align="center"></p>
+</body>
+</html>

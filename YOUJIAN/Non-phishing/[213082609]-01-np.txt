@@ -1,0 +1,9 @@
+Hi Dr. Zhang,
+
+My name is Sebastian Todd, and I've just read your paper on watermarking schemes. I was just a little bit confused about how these watermarks could be utilised on a large scale? 
+Also what sort of multimedia are watermarks used on? I noticed JPEG images are one example, would they also be included in things such as DVD realeases? 
+If you could just explain that to me simply I'd really appreciate it, it would help me a lot with my studies.
+
+Thanks,
+
+Sebastian Todd

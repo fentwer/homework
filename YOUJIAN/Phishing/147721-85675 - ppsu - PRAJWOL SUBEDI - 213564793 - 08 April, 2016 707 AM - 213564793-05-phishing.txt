@@ -1,0 +1,6 @@
+Dear User,
+The phishing attack is increasing rapidly in the Internet. As a counter measure, one of the protocols called Anti-phishing Authentication (APA) protocol that is based on SPEKE, which is Password Authenticated Key Exchange (PAKE). It include mutual authentication, known session key to prevent against the phishing scams. Your data is really valuable and cost you a lot.
+Please visit the link and to know more about the anti-phishing technique 
+Regards,
+Deakin IT Security team.
+

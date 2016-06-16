@@ -1,0 +1,18 @@
+From: Yang Xiang <yang.xiang@deakin.edu.au>
+To:  Jun Zhang <jun.zhang@deakin.edu.au>
+Subject: Encrypted Domain
+Message:
+
+Hi Dr Jun Zhang,
+
+In discussion to yesterday meeting that I will be finishing off my Encrypted Domain application using the proposed protocol 
+which composed of three sub-protocols: the registration protocol, the watermarking protocol and the identification and arbitration protocol. 
+To be able to test the application and make sure the domain can generate the secret SEC efficiently and the protocol i secured for both buyers and sellers,
+I will be needing a few banking accounts to ensure everything runs smoothly.
+
+Could you please state your personal banking detail.
+
+Kind Regards,
+Yang Xiang
+Deakin UNIVERSITY
+

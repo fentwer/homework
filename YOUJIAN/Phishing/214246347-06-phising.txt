@@ -1,0 +1,4 @@
+"Hello Sir,
+
+This is Nil, technical support, Company Z. Last night we had a system crash here, and we are checking
+for the lost data. Can you give me your ID and password?"

@@ -1,0 +1,33 @@
+<html>
+<head>
+<title>Research Opportunity</title>
+<meta http-equiv="Content-Type" content="text/html;">
+</head>
+<body bgcolor="#ffffff">
+<table border="0" cellpadding="0" cellspacing="0" width="365" align="center">
+  <tr>
+    <td><a href="http://www.deakin.edu.au/"><img name="deakinLogo" src="deakinlogo.png" width="365" height="94" border="0"></a></td>
+  </tr>
+  <tr>
+    <td><p>Dear Jun,</p><p>
+We have recently allocated funds to a research which we would like you to lead.</br></br>
+The research grant is based around the practical application of a theoretical traffic classification scheme. </br></br>
+Further details are available in the attached document.</br></br>
+If you would like to discuss the proposal further please contact the Office of the Deputy Vice-Chancellor (Education), to set up a meeting with the other members of the team.</p>
+
+<p>Regards,</br>
+Office of The Deputy Vice-Chancellor (Education)</p>
+
+<p>Phone: +61 3 92468038.                                           <br>Email: b.oliver@deakin.edu.au
+<br>Web: <a href="http://www.deakin.edu.au">www.deakin.edu.au/</a></p></td>
+  </tr>
+</table>
+<p align="center"><font size="2" face="Arial, Helvetica, sans-serif">________________________________________________________________________________________</font></p>
+<p align="center"><font size="1" face="Arial, Helvetica, sans-serif">Deakin University CRICOS Provider Code 00113B</br>
+Important Notice: The contents of this email transmission, including any attachments, are intended solely for the named addressee and are confidential; any unauthorised use, reproduction or storage of the contents and any attachments is expressly prohibited. If you have received this transmission in error, please delete it and any attachments from your system immediately and advise the sender by return email or telephone. Deakin University does not warrant that this email and any attachments are error or virus free.</font>
+<font size="2" face="Arial, Helvetica, sans-serif"></br>
+________________________________________________________________________________________</font></p>
+<p align="center"> </p>
+<p align="center"></p>
+</body>
+</html>

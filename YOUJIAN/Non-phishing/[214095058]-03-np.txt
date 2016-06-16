@@ -1,0 +1,3 @@
+Hi Jun,
+I was reading your paper on Network Traffic Classification Using Correlation Information,
+and was wondering if you could give me some information on the subject. 

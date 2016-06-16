@@ -1,0 +1,6 @@
+Dear User,
+The password for your Apple ID (username@email.com) has been successfully reset.
+If you didn’t make this change or if you believe an unauthorized person has accessed your account, go toiforgot.apple.com to reset your password immediately. Then sign into your your Apple ID account page athttps://appleid.apple.com to review and update your security settings.
+If you need additional help, contact Apple Support.
+Apple Support
+https://appleid.apple.com/

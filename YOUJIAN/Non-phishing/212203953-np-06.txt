@@ -1,0 +1,80 @@
+From: Chief Digital Officer <ocdo@deakin.edu.au>
+To:  _All Staff, _All Students
+Subject: Deakin IT Security Alert: a malicious email is being sent to Deakin staff and students
+Message:
+
+Dear Colleagues,
+
+ 
+
+A fake email pretending to be the DEAKIN HELP DESK that asks recipients to click on a link to fill out their mailbox information has been sent to a number of Deakin students and staff today.
+
+ 
+
+If you receive this email, delete it immediately. Do not respond or click on any links in the email.
+
+ 
+
+The email states that we are currently upgrading all mailboxes to Microsoft Office 2016, and asks users to click on a link to fill out your mailbox information. This email is a scam and is trying to steal your username and password.
+
+ 
+
+In this case, the email shows the following characteristics:
+
+·         Sender appears to be a Deakin staff member
+
+·         Subject is “DEAKIN HELP DESK”
+
+·         Content includes statements like “We are currently upgrading all mailbox to Microsoft office 2016 for better performance and more storage space, Click here to fill out your mailbox info correctly, click on sign in to complete the process. Failure to follow this instruction will lead to permanent deactivation of your mail box in the next 7 hours.”
+
+·         The sign-off at the bottom of the email is “DEAKIN System Admin”
+
+ 
+
+To repeat, if you receive one of these emails just delete it. Do not open the email or click on any links in the email.
+
+ 
+
+If you have already clicked on a link and entered your username and password:
+
+·         IMMEDIATELY change your password
+
+·         Run a virus scan on your computer to detect any malicious programs (Deakin PCs have up-to-date virus scanning available). If this is your own PC, make sure you use an up-to-date virus scanner.
+
+ 
+
+Always be suspicious of unsolicited emails. Deakin and other reputable organisations will never ask for your password or other personal details via an email. If you are uncertain, always contact the IT Service Desk on 1800 463 888 for advice.
+
+ 
+
+Kind Regards
+
+ 
+
+William Confalonieri
+
+Chief Digital Officer
+Deakin University
+
+ 
+
+Title: Deakin University logo
+
+ 
+
+221 Burwood Highway,
+
+Burwood, VIC  3125
+
+Ph: +61 3 9251 7880
+
+http://www.deakin.edu.au
+
+Deakin University CRICOS Provider Code 00113B
+
+ 
+
+Important Notice: The contents of this email transmission, including any attachments, are intended solely for the named addressee and are confidential; any unauthorised use, reproduction or storage of the contents and any attachments is expressly prohibited. If you have received this transmission in error, please delete it and any attachments from your system immediately and advise the sender by return email or telephone.
+Deakin University does not warrant that this email and any attachments are error or virus free.
+
+ 

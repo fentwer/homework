@@ -1,0 +1,18 @@
+Dear Dr Jun Zhang
+
+As part of the universities commitment to providing better equipped information services to the school of information technology, faculty of science engineering & built environment, the university has partnered up with the developers of vmware to create a online vmware platform called the 'Deakin University School of IT Student Cloud' (Duclouds).
+As this system was proposed by several security and network lecturers from the faculty of IT to be implemented into the current practical course work, to replace the current outdated system.
+We are thrilled to announce that due to the information received from several references, we have selected you to be the first unit chair to use this system for 2016.
+This system will soon be available to all users with in the faculty of IT.
+In order to secure your position, we recommend that you click the link below to login and begin working with our internationally recognised program.
+	-Link:https://ducloud.it.deakin.edu.au/cloud/org/sit/
+
+What is Ducloud?
+Duclouds incorporates a range of virtual machine images which allows students to experiment with networks and security protocols within a contained environment in order to provide practical research and training for students and other academics.
+
+How does Ducloud work?
+Watch - Watch our online tutorial videos from introductory steps to implementing advanced network/security applications.
+Download - Download our pdf training references
+
+Regards
+

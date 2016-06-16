@@ -1,0 +1,5 @@
+Do you want to allow the following program to make changes to this computer?
+Program Name: Adobe Player Installer
+Verified Publisher: Adobe Systems Incorporated
+File Origin: Downloaded from the Internet
+Show details                         

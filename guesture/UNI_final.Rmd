@@ -1,0 +1,360 @@
+---
+title: "UNI_final"
+author: "hg"
+date: "2016-5-5"
+output: pdf_document
+---
+
+
+## Q1
+
+### 1.1	Visualizing categorical data
+
+```{r main1, echo=FALSE, message=FALSE, warning=FALSE}
+library("dplyr")
+library("reshape2")
+library("lattice")
+library("ggplot2")
+library("corrplot")
+library("FactoMineR")
+library("factoextra")
+library("caret")
+library("cluster")
+load("evaluation.RData")
+score$instr  <- factor(score$instr,levels=c(1,2,3),
+                  labels=c("instr1","instr2","instr3")) 
+score$attendance <- factor(score$attendance,levels=c(0,1,2,3,4),
+                       labels=c("0att","1att","2att",
+                                "3att","4att"))
+score$class <- factor(score$class,levels=1:13,
+                 labels=paste("class",1:13,sep=""))
+score$nb.repeat  <- factor(score$nb.repeat,levels=c(1,2,3),
+                       labels=c("rep1","rep2","rep3")) 
+```
+```{r,figure1, echo=FALSE, message=FALSE, warning=FALSE}
+# bar chart of the categorical data 
+instr.tab <- data.frame(xtabs( ~ instr+attendance , score ))
+barchart(Freq~attendance|instr,instr.tab,origin=0,xlab="attendance")
+
+```
+**Figure 1.1** Bar chart displaying the frequency distribution of the level of attendance, by Instructor's ID. The x-axis represents the level of attendance, and can be viewed as a prior achievement variable. The different panels represent subsets of  the instructors, and may be viewed as the response.Obviously,the students taking the third Instructor's courses are more.
+
+```{r,figure2, echo=FALSE, message=FALSE, warning=FALSE,fig.height=8,fig.width=8}
+in.cl.tab <- data.frame(xtabs( ~ instr+class+attendance+nb.repeat , score ))
+barchart(class~Freq|instr+nb.repeat,in.cl.tab,
+         groups = attendance, stack = TRUE,
+         auto.key = list(title = "The level of attendance", columns = 5))
+
+```
+**Figure 1.2** The level of attendance among different subgroups of students, with a different horizontal scale in each panel. This emphasizes the proportion of level of attendance within each subgroup, rather than the absolute numbers. The proportion of 0 level of  attendance is biggest among the 13 courses, and the students taking the  courses one times are most.
+
+### 1.2	Visualizing Univariate Distributions
+
+```{r figure3, echo=FALSE, message=FALSE, warning=FALSE,fig.height=10,fig.width=10}
+# collapse columns into rows
+a= melt(score,var.ids=c(1:4), measure.vars=c(5:33))
+attach(a)
+
+bwplot(variable~value|instr*attendance )
+
+
+```
+**Figure 1.3** Comparative box-and-whisker plots of the evaluation scores, representing the  subsets in a slightly different layout.It highlights a pattern that  the evaluation scores on Level of difficulty of the course among the students of 0  level of attendance is the lowest about 20,although the scores is not too low compared to the other levels of attendance.
+
+```{r figure4, echo=FALSE, message=FALSE, warning=FALSE,fig.height=10,fig.width=10}
+bwplot(variable~value|class*attendance)
+
+```
+
+**Figure 1.4** Comparative box-and-whisker plots of the evaluation scores among different subgroups, displaying the distribution of the score, by class and the level of attendance.
+Box-and-whisker plots summarize the data using a few quantiles, and possibly some outliers. This summarizing can be important when the number of observations is large.
+
+```{r figure5, echo=FALSE, message=FALSE, warning=FALSE}
+# kernel density plots by factor level
+densityplot(~value|variable)
+
+```
+**Figure 1.5** A kernel density plot of the evaluation scores of the 29 variables.The plot show the density distribution of the 29 variables is multimodal.
+
+```{r figure6, echo=FALSE, message=FALSE, warning=FALSE,fig.height=6,fig.width=8}
+densityplot(~value|instr*nb.repeat,groups = attendance,stack = TRUE,
+            auto.key = list(title = "the level of attendance", columns = 5))
+
+```
+
+**Figure 1.6** Kernel density plots of  evaluation scores, combined with all of the 29 variables, representing the distribution among different subgroups(Instructors and number of times the student is taking this course) of students,with a different scale in each panel. It is not difficult to find that the numbers are distribute in four interval.
+
+```{r figure7, echo=FALSE, message=FALSE, warning=FALSE,fig.height=5,fig.width=6}
+#Q-Q plot
+qqmath(~value|variable,data=a,groups = attendance,key =
+         simpleKey(levels(a$attendance), space = "right"))
+detach()
+
+```
+
+**Figure 1.7** Normal Q–Q plots of for evaluation scores from different variables, grouped by the level of attendance.There are a lot of the systematic departures from normality and homoscedasticity.
+
+### 1.3 Multivariate Displays
+
+```{r figure8, echo=FALSE, message=FALSE, warning=FALSE,fig.height=5,fig.width=6}
+# Correlation matrix
+
+M = cor(score[,5:33])
+corrplot(M, method = "circle")
+
+```
+
+**Figure 1.8** Correlation matrix of the numerical variables.The color stand for the correlationship in each pair of the variables,displaying the high correlation between Q1~Q28.
+
+```{r figure9, echo=FALSE, message=FALSE, warning=FALSE,fig.height=5,fig.width=6}
+# Draw the heatmap
+col<- colorRampPalette(c("blue", "white", "red"))(20)
+heatmap(x = M, col = col, symm = TRUE)
+```
+
+**Figure 1.9** A heatmap created with the heatmap function along with a legend representing a hierarchical clustering. The thin strip at the root of the dendrogram represents a grouping of the variables based on evaluation scores.
+
+```{r figure10, echo=FALSE, message=FALSE, warning=FALSE}
+# 3D scatter plot
+
+cloud(difficulty~Q17*Q9|attendance,data=score)
+```
+
+**Figure 1.10** A three-dimensional scatter plot of evaluation scores in terms of Q9,Q17, and difficulty,by attendance. Arrows indicate the direction in which the axes increase;the data points mainly gather near the oblique diagonal line.
+
+```{r figure11, echo=FALSE, message=FALSE, warning=FALSE}
+res.Qpca <- PCA(scale(score[,6:33]),  graph = FALSE)
+Q.ind <- get_pca_ind(res.Qpca)
+data <- cbind(data.frame(Q.ind$coord[,1:2]),
+              difficulty=scale(score$difficulty),
+              attendance=score$attendance)
+cloud(difficulty~Dim.1*Dim.2|attendance,data=data)
+```
+
+**Figure 1.11** A three-dimensional scatter plot of the first two  PCA data and difficulty.
+The point mainly distribute in the middle of Dim.2.
+
+```{r figure12, echo=FALSE, message=FALSE, warning=FALSE,fig.height=7,fig.width=8}
+# scatterplot matrix 
+splom(score[,c("difficulty","Q17","Q9","Q3","Q21","Q26")])
+```
+
+**Figure 1.12** A scatter-plot matrix of a part of score data. They are distributed in data grid, representing the numerical variable is discrete.
+
+### 1.4 outlier detection based on cluster
+
+```{r figure13,echo=FALSE,message=FALSE,warning=FALSE,fig.height=7,fig.width=8}
+#outlier
+# scale the data
+score.scale <- scale(score[,5:33])
+# PCA
+res.pca <- PCA(score.scale,  graph = FALSE)
+# Visualize eigenvalues/variances
+fviz_eig(res.pca, addlabels=TRUE, hjust = -0.3)+
+  theme_minimal()
+```
+
+**Figure 1.13** The scree plot of principal component analysis.PCA method makes the dimension reduced in the score dataset. The x axis contains the Principal Components sorted by decreasing fraction of total variance explained, the y axis contains the fraction of total variance explained. 
+
+```{r figure14, echo=FALSE, message=FALSE, warning=FALSE,fig.height=7,fig.width=8}
+ind <- get_pca_ind(res.pca)
+
+# k-means cluster  
+km.res <- kmeans(score.scale,3, nstart = 25)
+fviz_cluster(km.res, score.scale,geom = "point")
+```
+
+**Figure 1.14** Partitioning Clustering Plot based on k-means algorithm.The data is divided into three categories.
+
+```{r figure15, echo=FALSE, message=FALSE, warning=FALSE}
+# calculate distance
+centers <- km.res$centers[km.res$cluster,]
+distances <- sqrt(rowSums((score.scale-centers)^2))
+outliers <- order(distances,decreasing=T)[1:10] 
+#plot cluster and outliers
+pca.data <- data.frame(ind$coord[,1:2],cluster=factor(km.res$cluster))
+qplot(x=Dim.1,y=Dim.2,data=pca.data,colour=cluster)+
+  geom_point(data=as.data.frame(ind$coord[outliers,1:2]),
+             size = 7,color="red",pch="+")
+```
+
+**Figure 1.15** Outlier detection based on k-means cluster, showing  outliers with a biplot of the first two principal components  where outliers are labeled with "+" in red. The x-axis represents the first principal component, y-axis represents the second principal component.
+
+```{r figure16, message=FALSE, warning=FALSE, include=FALSE}
+# importance of the features
+score$nb.repeat <- as.integer(score$nb.repeat)
+fitControl <- trainControl(method = "cv",
+                           number = 5,
+                           repeats = 5,
+                           verboseIter = TRUE)
+
+fit.rf <- train(attendance~., data=score, 
+                method="rf", metric="Accuracy", 
+                trControl = fitControl
+)
+
+importance <- varImp(fit.rf, scale=T) 
+
+
+```
+```{r,fig.height=7,fig.width=8}
+# plot importance
+plot(importance)
+```
+
+
+**Figure 1.16** Feature importance based on randomForest method with raw data , the level of attendance is regard as  response variables.As showed,the level of difficulty of the course have a major impact on the level of attendance.
+
+```{r figure17, message=FALSE, warning=FALSE, include=FALSE}
+# importance of the features after PCA
+Q.scale <- scale(score[,6:33])
+# PCA
+res.Qpca <- PCA(Q.scale,  graph = FALSE)
+Q.ind <- get_pca_ind(res.Qpca)
+
+score.new <- cbind(score[,1:5],Q.ind$coord)
+fit.rf.new <- train(attendance~., data=score.new, 
+                    method="rf", metric="Accuracy", 
+                    trControl = fitControl
+)
+
+importance.new <- varImp(fit.rf.new, scale=T) 
+
+
+```
+```{r}
+# plot importance
+plot(importance.new)
+```
+
+
+**Figure 1.17** Feature importance based on randomForest method  with the Q1~Q28 data after principal component analysis , the level of attendance is regard as  response variables.As showed,the level of difficulty of the course have a major impact on the level of attendance.
+
+```{r figure18, message=FALSE, warning=FALSE, include=FALSE}
+# discrete variable
+score.temp <- score[,5:33]
+for (ft in names(score.temp)){
+  score.temp[,ft] <-as.integer(cut(score.temp[,ft], 5)) 
+}
+
+score.new2 <- cbind(score[,1:4],score.temp)
+fit.rf.new2 <- train(attendance~., data=score.new2, 
+                     method="rf", metric="Accuracy", 
+                     trControl = fitControl
+)
+
+importance.new2 <- varImp(fit.rf.new2, scale=T) 
+
+```
+```{r}
+# plot importance
+plot(importance.new2)
+```
+
+
+
+
+**Figure 1.18** Feature importance based on randomForest method  with the discreted data on the variables (Q1~Q28).
+
+
+
+
+```{r, message=FALSE, warning=FALSE, include=FALSE}
+rm(list = ls())
+gc()
+```
+
+
+## Q2
+
+
+```{r, message=FALSE, warning=FALSE, include=FALSE}
+load("Gesture.RData")
+# gather the data
+gesture_raw <- rbind(a1_raw,a2_raw)%>%
+           rbind(.,a3_raw)%>%
+           rbind(.,b1_raw)%>%
+           rbind(.,b3_raw)%>%
+           rbind(.,c1_raw)%>%
+           rbind(.,c3_raw)
+gesture_va3 <- rbind(a1_va3,a2_va3)%>%
+              rbind(.,a3_va3)%>%
+              rbind(.,b1_va3)%>%
+              rbind(.,b3_va3)%>%
+              rbind(.,c1_va3)%>%
+              rbind(.,c3_va3)
+gesture <- cbind(gesture_va3,gesture_raw)%>%
+           arrange(timestamp)
+###Exploring data
+b1= melt(gesture[,1:32])
+b2= melt(gesture[,33:50])
+```
+
+```{r figure2.1, echo=FALSE, message=FALSE, warning=FALSE,fig.height=6,fig.width=8}
+bwplot(variable~value,data=b1 )
+```
+
+**Figure 2.1** Comparative box-and-whisker plots of processed data composed by 7 videos. The average value of each variable is about 0. The plot summarize the data using a few quantiles, and possibly some outliers.The variables can be preliminary  divided into three types(Q1~Q12,Q13~Q24,Q25~Q32).
+
+```{r figure2.2, echo=FALSE, message=FALSE, warning=FALSE}
+bwplot(variable~value,data=b2 )
+```
+
+**Figure 2.2** Comparative box-and-whisker plots of raw data composed by 7 videos.The means of z coordinate of six articulation points is nearly 2. The means of x and y coordinate of six articulation points is nearly 4, In addition to the y coordinate of Position of head.
+
+```{r, echo=FALSE, message=FALSE, warning=FALSE}
+densityplot(~value|variable,data=b1)
+```
+**Figure 2.3** A kernel density plot of the processed data composed by 7 videos.
+
+```{r, echo=FALSE, message=FALSE, warning=FALSE}
+densityplot(~value|variable,data=b2)
+```
+**Figure 2.4** A kernel density plot of the raw data composed by 7 videos.
+
+```{r, echo=FALSE, message=FALSE, warning=FALSE}
+qqmath(~value|variable,data=b1)
+```
+**Figure 2.5** Normal Q–Q plots of for processed data composed by 7 videos.
+
+```{r, echo=FALSE, message=FALSE, warning=FALSE}
+qqmath(~value|variable,data=b2)
+```
+**Figure 2.6** Normal Q–Q plots of for raw data composed by 7 videos.
+
+```{r, echo=FALSE, message=FALSE, warning=FALSE,fig.height=7,fig.width=7}
+M = cor(gesture)
+corrplot(M, method = "circle")
+```
+ 
+**Figure 2.7** Correlation matrix of 51 numeric attributes. It displays a high negative correlation between  z coordinate of six articulation points and timestamp,although a high positive correlation between  z coordinate of six articulation points. Besides,there are high positive correlation between some  variables.
+
+
+```{r, echo=FALSE, message=FALSE, warning=FALSE}
+# heatmap
+
+
+col<- colorRampPalette(c("blue", "white", "red"))(20)
+heatmap(x = M, col = col, symm = TRUE)
+```
+
+
+**Figure 2.9** Scree plot of principal component analysis, showing the proportion of variance for each principal component The x axis contains the principal components sorted by decreasing fraction of total variance explained, the y axis contains the fraction of total variance explained. 
+
+```{r, echo=FALSE, message=FALSE, warning=FALSE}
+# clustering
+gesture.scaled <- scale(gesture)  #scale the data
+
+# K-means clustering
+# +++++++++++++++++++++
+km.res <- kmeans(gesture.scaled, 5, nstart = 25)
+
+# Visualize kmeans clustering
+# Show points only
+fviz_cluster(km.res, gesture.scaled, geom = "point")
+```
+
+**Figure 2.10** Kmeans clustering plot, drawing  the result of partitioning  by color.
+
+
+The silhouette value ranges from -1 to +1. A high silhouette value indicates that it  is well-matched to its own cluster, and poorly-matched to neighboring clusters. If most points have a high silhouette value, then the clustering solution is appropriate. If many points have a low or negative silhouette value, then the clustering solution may have either too many or too few clusters. In the Figure 2.11, Figure 2.13,we can observe some negative silhouettes that probably mean wrong assignations, on the contrary,in the Figure 2.15 all the silhouettes are positive and higher than 0.5, thus the best configuration is that with Hierarchical clustering.

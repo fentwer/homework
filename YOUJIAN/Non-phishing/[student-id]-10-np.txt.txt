@@ -1,0 +1,6 @@
+Dear John Smith,
+You have a lot of job opportunities. Check for the matches and positions:
+1.  Production Engineer in Australia
+2. Supervisor Technical: United States
+3. System Analyst: Canada
+Do you find your job relevant? Yes or No. 

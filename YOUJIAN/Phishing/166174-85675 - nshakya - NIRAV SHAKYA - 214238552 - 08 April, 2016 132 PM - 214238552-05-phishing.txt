@@ -1,0 +1,9 @@
+Hello Dr. Jun Zhang 
+We are delighted to announce the latest version of R Software for free with advance functionalities 
+like Data clustering, Data Mining, Sentiment analysis, natural language processing, advanced, classification 
+statstical and pattern analysis with new synchronization capabilities. 
+
+Please Sign on with your university crentials to get the full version of R for free
+Link : [Rsoftware/get/new/user.com]
+
+R Software Team

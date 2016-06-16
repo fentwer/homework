@@ -1,0 +1,10 @@
+Dear Jun,
+I am currently having trouble with getting R to display the output of my frequency analysis on assignment 1 for SIT384.
+
+I have managed to do the frequency analysis of your published papers, but am unable to plot them on a graph.
+The error i am getting is 'x' must be an array of at least two dimensions.
+
+Your assistance would be greatly appreciated.
+
+Regards,
+John Siggson 242314249

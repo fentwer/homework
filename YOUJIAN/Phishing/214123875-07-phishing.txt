@@ -1,0 +1,31 @@
+<html>
+<head>
+<title>Important: We noticed unusual activity on your account</title>
+<meta http-equiv="Content-Type" content="text/html;">
+</head>
+<body bgcolor="#ffffff">
+<table border="0" cellpadding="0" cellspacing="0" width="365" align="center">
+  <tr>
+    <td><a href="http://www.deakin.edu.au/"><img name="deakinLogo" src="/images/deakinlogo.png" width="215" height="94" border="0"></a></td>
+  </tr>
+  <tr>
+    <td><p>Dear Jun,</p><p>
+We would like you assistance resolving an issue with your account.</br></br>
+In the mean time, we have temporarily disabled your account.</br></br>
+We have noticed unusual activity on you account, the issue detect is anomalous failed login attempts from an obfuscated location.</br></br>
+To resolve this issue please click the link below to change your password and update you contact details.</br></br>
+We would also like to remind you that since you last changed your password we have updated out password policy. The policy is available in the attached document, please review this before changing your password!</br></br></br>
+<a href="https://signon.deakin.edu.au/idp/profile/SAML2/Redirect/SSO">Click Here to Login to Your Account</a>
+</p>
+</td>
+  </tr>
+</table>
+<p align="center"><font size="2" face="Arial, Helvetica, sans-serif">________________________________________________________________________________________</font></p>
+<p align="center"><font size="1" face="Arial, Helvetica, sans-serif">Deakin University CRICOS Provider Code 00113B</br>
+Important Notice: The contents of this email transmission, including any attachments, are intended solely for the named addressee and are confidential; any unauthorised use, reproduction or storage of the contents and any attachments is expressly prohibited. If you have received this transmission in error, please delete it and any attachments from your system immediately and advise the sender by return email or telephone. Deakin University does not warrant that this email and any attachments are error or virus free.</font>
+<font size="2" face="Arial, Helvetica, sans-serif"></br>
+________________________________________________________________________________________</font></p>
+<p align="center"> </p>
+<p align="center"></p>
+</body>
+</html>

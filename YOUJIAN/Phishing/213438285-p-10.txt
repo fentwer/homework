@@ -1,0 +1,17 @@
+From: Doctor Michael Jackson <michaelj@abc.gov.au>
+To:  Jun Zhang <jun.zhang@deakin.edu.au>
+Subject: Network Traffic Classification
+Message:
+
+Hi Dr Jun Zhang,
+I am interest in the low-level feature representation for medical image experiment and how the 
+six texture features corresponding to human visual perception: coarseness, contrast, directionality, 
+line-likeness, regularity, androughness play an important role in the experiment.
+I have done the experiment but it does not give me the desire result.
+We have recorded a video about the experient.
+Would you mind spending some time to have a look at it at youtube.com.au/medicalimage?
+
+
+Kind Regards,
+Doctor Michael Jackson
+

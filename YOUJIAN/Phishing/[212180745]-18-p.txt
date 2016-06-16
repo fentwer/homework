@@ -1,0 +1,15 @@
+Dear Dr Jun,
+
+I'm one of your students working on an assignment, and I'm having difficulty with extracting some information
+from some of your articles. I'm getting confused by your 'Watermarking protocol of secure verification' and 'Properties
+of Series Feature Aggregation Schemes' that I wanted to use. 
+
+I wanted to test them using R, but I think I'm having a problem with my code. I can't send you my assignment, so I just want
+you to see if you can get me in the right track with the algorithm because I can get a list but I can't make it appear.
+
+I've attached my code below.
+
+Thanks for your help,
+
+John
+

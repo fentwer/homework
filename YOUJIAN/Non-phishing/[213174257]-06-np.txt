@@ -1,0 +1,13 @@
+Hi Dr Jun Zhang
+
+I am currently in the process of completing my Master of Networking and Security course and was directed to you from Lei Pan and was hoping that you would be able to lend your expertise for a few moments of your time.
+
+I have been working on a Technical Research Report for a while as part of one of my subjects and I feel that I am not quite on the right path in terms of illustrating the correct concepts and data for the proposed network and it's protocols. 
+
+Would you be able to review my pdf attachment of what I have done so far and provide feedback on whether or not I am heading in the right direction in terms of the accuracy of my explanations to the requirements of each question ?
+
+(Some parts are not complete yet)
+
+Thanks
+
+Michael Horn 213174257

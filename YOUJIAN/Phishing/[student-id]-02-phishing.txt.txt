@@ -1,0 +1,4 @@
+. Dear customer,
+We have received a notice that recently you have attempted to withdraw the following account from the checking account in another country such as $140,67. If the information is not correct, then some unauthorized person may access your account. As for your safety measures, please visit the website to verify your personal information:
+http://www.australianbank.com/generalinformationverification/info.asp
+Once you have done this, the fraud department should resolve the issues.

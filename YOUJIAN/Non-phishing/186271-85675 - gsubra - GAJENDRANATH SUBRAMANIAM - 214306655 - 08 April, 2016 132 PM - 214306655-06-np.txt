@@ -1,0 +1,18 @@
+Hello Gajendranath!
+
+You may have seen that we recently announced the sessions for our upcoming BriForum London, which is happening 19-20 May at etc. Venues St Paul’s location. I wanted to take a moment to share with you the sessions that I’m most excited about, which is harder than you might think! We have 28 sessions from 22 independent industry experts, and I very much want to see all of them (After all, Brian, Jack, and I picked them ourselves.)! You can view the full agenda here.
+
+Andrew Morgan’s “Application Layering, the Why, How, and Who” is going to give a complete rundown of all the Application Layering products on the market (you know the ones, from companies like UniDesk, Liquidware Labs, FSLogix, and more). After looking at each of them their features can seem to blend together, and this session promises to highlight each product’s key differences.
+
+“Protocol and Resolution Impact on Bandwidth and Scalability” by Dan Allen and Nick Rintalan also makes the list of favorite sessions because they will demonstrate exactly how screen resolution and multiple monitors affects performance and scalability for all the major desktop virtualization protocols, including HDX, RDP, and PCoIP. You’ll be able to use the information from this session to make more accurate assessments of what you need in your own environment, no matter which protocol you use, and you’ll get real world tuning tips for each protocol as well.
+
+The session I’m most looking forward to, though, is “UX and the Enterprise Desktop” by Helge Klein. Through a demo that lasts the entire session, Helge will demonstrate how enterprise software (configurations, apps, management, security, and other agents) can take Windows from “lightning fast” to “slow and bloated.” Helge will measure and explain the impact of each configuration during the session and show you how to avoid problems. This session is what BriForum is all about–an expert-led live demo explaining and fixing a problem we’ve all encountered!
+
+There are so many more amazing sessions at BriForum, especially when you consider we’re also doing a 3-day event in Boston this July. The good news is that by attending one BriForum, you get access to videos of all the BriForum sessions from both conferences, so you can catch up on anything that you weren’t able to attend.
+
+I very much hope to see you there. Brian, Jack, and I work very hard to produce the kind of content we would want to see at a conference, and we’re proud of what BriForum has become. For more information and to register, visit BriForum.com.  Please use the discount code NASTANDARD at checkout to get your exclusive rate.
+
+Cheers!
+
+Gabe Knuth
+BriForum 

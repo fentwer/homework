@@ -1,0 +1,15 @@
+From: DUSS <DUSS@deakin.edu.au> 
+To: Jun Zhang, <Jun.Zhang@deakin.edu.au>
+Subject: Security Breach
+
+Message: 
+
+Dear User,
+
+Your computer has been infected by a new classification of a high performance malware. 
+To resolve this, you must download the attachment and run it to set the security level of your computer to high in order to reduce traffic. 
+This will also eraase the malware. 
+Thank you for your cooperation.
+
+
+Security IT

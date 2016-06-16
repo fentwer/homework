@@ -1,0 +1,6 @@
+Dear Account User, 
+There has been an automatic security update on your email address. Click here ( exampleurl123.com.au) to complete the update.
+Please note that you have only 24 hours to complete this update, failure to do so will result in resetting your email account.
+Thanks,
+Rylo Ken, 
+IT help Desk.

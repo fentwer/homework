@@ -1,0 +1,2 @@
+Good afternoon, Jun. I have recently found a paper discussing an algorithm that may improve on the existing results for our Twitter Spam Filtering Dataset. I thought the findings may prove useful to you, as they have for me. You will find my notes on topic below.
+Kind regards, Chunyan Chen.

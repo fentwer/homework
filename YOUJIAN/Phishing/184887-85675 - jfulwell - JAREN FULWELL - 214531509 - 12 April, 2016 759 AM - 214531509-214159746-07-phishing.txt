@@ -1,0 +1,12 @@
+Sent 4:40pm
+Hi User,
+It has come to our attention that a social network work has become embedded on your machine, no need to say anything about Facebook at work!
+Just for your information, social network worms leverage social platforms to send worm emails or messages containing malicious links.
+We need to rectify this immediately, could you please make a ticket on our service desk: helpme@itsolutions.com.au including you user and password so we can remotely login from Ballarat and contain this before it gets to the whole network. 
+It is best that we act fast, will call in the morning if no reply!
+Regards,
+ITSD
+
+Paul Fixer
+(03) 9288 8818
+123 Fake Street, Ballarat VIC

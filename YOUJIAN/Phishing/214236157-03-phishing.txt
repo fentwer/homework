@@ -1,0 +1,7 @@
+Hello Dr. Jun Zhang,
+
+I am a researcher at Penn State University currently focusing on content based image retrieval of medical information. I have a strong history in this field and am particularly interested in a paper you published in 2014 regarding the retrieval of medical images based on unclean image bags. I have seen you have a lot of experience on this topic and would like to discuss this further with you as we have recently developed a new and exciting way to extract this information. 
+
+You can read more about this research in the attached document.
+
+Kind Regards

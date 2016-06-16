@@ -1,0 +1,10 @@
+Hi Jun
+
+I was wondering if it was possible to have a meeting with you sometime today to discuss elements of an assignment that I am currently completing.
+The questions I wanted to ask were in relation to the following question:
+- List and provide as many descriptions on the vulnerabilities that an attacker may exploited in order to penetrate attacks within a secure network system to retrieve corporate information.
+Does this question ask for us to explain the methods that an attacker may have used in order to carry out the attacks on the system from an external point.
+or
+The possible methods that an attacker may have performed whilst already within the network, and the key details behind the possible vulnerabilities?
+
+Regards

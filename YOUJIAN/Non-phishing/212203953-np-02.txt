@@ -1,0 +1,54 @@
+From: IT Service Desk <servicedesk-noreply@deakin.edu.au>
+To: Jun Zhang <jun.zhang@deakin.edu.au>
+Subject: You have reached your home directory quota
+Message:
+
+Dear Dr Jun Zhang,
+
+This email is to inform you that you have exceeded your home directory disk quota of 5.22GB. Although your home directory may appear to be larger than your assigned quota of 5.22GB, this additional space is provisioned to allow you to continue working in the event that you have reached your quota, need to save files and are unable to free space straight away.
+
+A reminder email will be sent each day while you remain at or over your allocated quota, and if you remain over quota for 7 days this additional space will be revoked. You can reduce the amount of space used in your home directory by deleting old or no longer used files, or archiving them to CD or DVD.
+
+To find out how much space you are currently using log in to any eSolutions managed workstation or lab computer.
+
+For Windows:
+
+    Navigate to "My Computer"
+    Right click on the H: and select "Properties"
+    The window that appears will list your current disk quota usage 
+
+
+For Mac:
+
+    Navigate to your Home Directory
+    Press "Command + I" or from the "File" menu select "Get Info"
+    The window that appears will list your current disk quota usage 
+
+
+If you have any further queries regarding this email contact the eSolutions IT Service Desk on the details below or visit http://www.deakin.edu.au/about-deakin/administrative-divisions/esolutions. Please do not reply to this email as this mailbox is not monitored.
+
+Regards,
+
+IT Service Desk
+Deakin University Geelong Victoria 3217 Australia
+
+Phone:
+Geelong 522 78888
+Melbourne: 924 46888
+Warrnambool: 556 33888
+Off Campus: 1800 463 888
+International: +61 3 5227 8888
+Self-service: http://www.deakin.edu.au/its/selfservice
+Website: http://www.deakin.edu.au/its/servicedesk
+Operating Hours:
+Monday to Friday: 08:00 - 20:00
+Saturday and Sunday: 11:00 - 17:00
+Deakin University CRICOS Provider Code 00113B
+
+The University will never ask you to provide personal information; this includes passwords, via email.
+
+Important Notice: The contents of this email transmission, including any attachments, are intended solely for the named addressee and are confidential; any unauthorised use, reproduction or storage of the contents and any attachments is expressly prohibited. If you have received this transmission in error, please delete it and any attachments from your system immediately and advise the sender by return email or telephone.
+
+Deakin University does not warrant that this email and any attachments are error or virus free.
+
+This message was triggered by the user DU\adchen reaching or exceeding their assigned soft disk space quota of 5.22GB on fileset fs1.

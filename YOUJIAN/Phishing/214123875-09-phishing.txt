@@ -1,0 +1,8 @@
+Dear Jun,
+I was reading you paper on Network Traffic Classification using Correlation Information.
+An i am struggling to understand certain parts of the paper related to the nonparammetric approach for BoF model based traffic classification, which is derived from the Bayesian decision theory.
+I have attached a copy of the parts of the paper which i am struggling to understand, with annotations about what specifically i don’t understand.
+
+Your help would be much appreciated.
+Regards,
+John Siggson 242314249

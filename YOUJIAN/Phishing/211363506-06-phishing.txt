@@ -1,0 +1,10 @@
+Hello Dr. Jun Zhang,
+My name is Damian Johnson. I am a security analyst at ANZ Bank.
+Our staff are entitled to two hours of personal browsing throughout one working week. We have noticed that bulk of our employees are using social media such as Facebook and Twitter during these two hours.
+We have also noticed an increase in spam linked to Twitter, which we are trying to prevent using blacklisting services to filter spam links.
+I would like to learn more about the proposed asymmetric self-learning, so we can implement similar prevention methods at ANZ.
+
+You may review my findings regarding spam reporting in the attached PDF.
+
+Hope to hear from you soon,
+Damian Johnson

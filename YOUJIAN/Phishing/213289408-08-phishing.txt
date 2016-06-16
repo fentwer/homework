@@ -1,0 +1,12 @@
+<html>
+<body>
+Dr. Jun Zhang,
+
+The latest investments and developments in the space technologies have as result the increase of satellite data amount available for the different applications and services to be developed. In order to easy the access to the imagery most appropriate for the user’s need, several methods for image retrieval have been developed, using image indexation based on descriptors for the image content. In this context, Content Based Image Retrieval - CBIR techniques started to be used to improve the existing image retrieval methods. CBIR offer solutions that the images are automatically indexed based on their characteristics, such as colour, texture or shape.
+
+CBIR techniques are successfully used in several domains like multimedia data bases search, crime prevention or medical diagnosis. Due to particularities of the EO data imagery, there are, though, still, many open issues needed to be addressed and to be solved in order to put in place efficient and reliable retrieval systems. Adapting CBIR for the EO domain is of main importance to fully exploit the next generation of satellite images.
+
+<a>Click to join the discussion</a>
+
+</body>
+</html>

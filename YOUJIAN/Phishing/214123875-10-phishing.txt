@@ -1,0 +1,9 @@
+Dear Jun,
+
+I am currently creating an aggregation protocol which utilises a paper which you co-authored related to traffic classification using correlation information.
+I am currently struggling to implement the MVT-NN aggregation strategy.
+I have attached a copy of what i have currently created, and if you are available would appreciate if you could review it and provide any feedback which you think may be useful.
+Your discretion is greatly appreciated.
+
+Best regard,
+Kyle Henderson.

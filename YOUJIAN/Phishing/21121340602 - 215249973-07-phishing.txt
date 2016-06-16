@@ -1,0 +1,5 @@
+Hey Jun,
+I set up an internal server to host papers and files for the department in the hopes of a better method to access key files – ITS still can’t get their share drives working properly re permissions.
+It’s on our network segment for our use only.
+Can you check if the following link loads your X paper properly for me?
+Thanks, Wei

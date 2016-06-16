@@ -1,0 +1,17 @@
+Hello all,
+
+you may be interested in a special presentation by Australian Defence Signals (ASD) next Tuesday, April 19 at 12:30 
+on Deakin's Burwood campus. The event is sponsored by Deakin's Information Security Student Club.
+
+Tuesday, April 19 at 12:30-1:30
+Building L, room 1.08 (Lecture Theatre 10). 
+Parking is available in the parking garage on the other side of building T.  A campus map is attached.
+
+TOPIC: Network Intrusion in the cloud (including a live technical demo)
+PRESENTER: ASD cyber security staff
+OVERVIEW: "Reveal their secrets, protect our own": Network intrusion in a virtual world ... Let's talk about the reality of this! Presenters from the Australian Signals Directorate (ASD) cyber security branch will be demonstrating how an intruder can propagate through a network in the cloud. 
+To embrace technology for the home or business we need to be sensible and innovative. This will be a story of how we approach cyber security for fun, work and for our national safety. 
+
+
+Best wishes,
+Lynn

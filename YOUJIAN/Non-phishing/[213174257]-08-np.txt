@@ -1,0 +1,12 @@
+Hi Jun
+
+I have been encountering a problem with Week 3's prac where I am unable to retrieve a connection between the attacking computer and the victim computer and vice re-versa.
+As I currently understand, we are supposed to use Terminal and type "msfconsole –q" and thus type the following Metasploit command within Terminal (as stated within the weeks prac) to activate the exploit, set a payload with the correct host and port and use the command "exploit" to listen for a connection.
+I have tried to complete this prac several times, but each time it has been unsuccessful. Do you know what the possible issue maybe. Could it be something as simple as the firewall having some effect on security in relation to the incoming an outgoing traffic even though it is not activated,
+or would it be something a bit more complicated such as a virtual image configuration issue as I know some other students have been experiencing the same issue.
+
+I also have another question about Metasploit. Does Metasploit allow for custom scripts such as creating a specific exploit to achieve a particular purpose on a certain system without the need to type a series of algorithms in order to retrieve files and so on.
+
+Cheers
+
+Michael Horn 213174257

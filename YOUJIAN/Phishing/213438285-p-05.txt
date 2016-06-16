@@ -1,0 +1,17 @@
+From: Wanlei Zhou <wanlei@deakin.edu.au>
+To:  Jun Zhang <jun.zhang@deakin.edu.au>
+Subject: Watermarking Protocols
+Message:
+
+Hi Dr Jun Zhang,
+
+Recently I have finished a new research on Watermarking Protocols. The waterkmarking algorithms are a bit too complicated and I am not 100% sure
+that it's correct.And can you also please have a look at the security analysis section because I am also uncertain about the UTTP part.
+I would like to know if it was correct and informative to the reader.
+Could you please download the article in the attachment. 
+Any feedbacks given would be appreciated.
+
+Kind Regards,
+Dr Wanlei Zhou
+Deakin UNIVERSITY
+

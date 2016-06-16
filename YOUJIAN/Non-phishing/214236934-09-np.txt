@@ -1,0 +1,19 @@
+We have recommendations for you
+
+We combed our catalog and found coruses and Specializations that we think match your interests.
+
+browse our recommendations below, and start learning something new today.
+
+Recommended Specializations:
+
+Machine Learning - University of Washington
+
+Methods and Statistics in Social Sciences - University of Amsterdam
+
+Data Science at Scale - University of Washington
+
+Geographic information Systems (GIS) - University of California
+
+Recommended Courses:
+
+Getting and cleaning data - Johns Hopkins University

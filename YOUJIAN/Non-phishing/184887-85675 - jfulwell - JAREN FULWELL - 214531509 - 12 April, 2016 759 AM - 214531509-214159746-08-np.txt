@@ -1,0 +1,9 @@
+Your latest Power bill is now available online!
+
+Account Number : ##########
+Bill date: 04/10/2016
+Total Amount Due: $233.56
+
+To be redirected to our payment portal simply: click here
+Regards,
+The Power People

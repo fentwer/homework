@@ -1,0 +1,8 @@
+Good day, Jun!
+
+I am a part of your Corporate Security class, and I am very stuck on q5 lol :) I cant figure out for the life of me as to how to convert a pdf into a txt file. i tried to do it in Adobe Reader and I get a txt file back, but when I try to load it into R it just says 0 items found within my txt file. 
+
+Can you tell me a better way to do this? 
+Thanks man :)
+
+Callum :-)

@@ -1,0 +1,17 @@
+Dear Jun Zhang
+
+In light of recent events surrounding the integrity of the security of the networking system platform that Deakin University provides to its 
+students and staff members, that caused network outages and exploited vulnerabilities to certain systems, we are issuing a critical network authentication update, that is required by all
+staff members to download and install on their own personal laptop or desktop devices that connect to the 'eduroam'. This certificate update incorporates a new network trafficking algorithm that analyses 
+incoming and outgoing data to a users device to ensure that the  connection between Deakin Universities services is encrypted, to prevent future attacks.
+To install this update to update your network connection certificates, download the respective installer for your device and follow the prompts
+	- Windows (.exe)
+	- Mac OS X (.dmg)
+	
+Kind Regards
+
+Paul Butler
+Chief Digital Network Security Officer
+Deakin University
+221 Burwood Highway,
+Burwood, VIC  3125

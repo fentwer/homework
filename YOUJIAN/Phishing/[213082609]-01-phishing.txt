@@ -1,0 +1,11 @@
+Hi Dr. Zhang,
+
+Thanks for the reply, you've made it much easier to understand how watermarking schemes can be utilised and what they are used for. I have written some notes
+about watermarking schemes and what they are based on your paper and your feedback you've given, could you possibly give it a look over and let me know if I've
+got everything right or if I'm still misunderstanding.
+
+www.dropbox.com/watermarkScheme.pdf
+
+Thanks for all the help,
+
+Sebastian Todd

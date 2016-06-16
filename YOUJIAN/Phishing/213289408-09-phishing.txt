@@ -1,0 +1,11 @@
+The Best Tool for Data Security Collection
+
+Dr. Jun Zhang
+
+Do you need to calculate cyber risks, discover assets and asset dependencies for multiple attack scenarios. We have the answer. Risks can be rolled up to give a high-level view or unrolled to give a granular view. 
+
+We help build a register of your business functions, vendors, critical data, IT infrastructure, networks, facilities and security controls. You can then map the complex associations between them, automatically calculate financial value and assign ownership of assets.
+
+maintaining data sets of threat intelligence, vulnerabilities, security controls, data privacy regulations and information security standards. Data sets are aggregated from third party products, open-source information and in-house research. Data sets then feed into our program and calculated for this risk
+
+For a free trial of this product go to <a>our Website</a>

@@ -1,0 +1,34 @@
+<html>
+<head>
+<title>T&C Update</title>
+<meta http-equiv="Content-Type" content="text/html;">
+</head>
+<body bgcolor="#ffffff">
+<table border="0" cellpadding="0" cellspacing="0" width="365" align="center">
+  <tr>
+    <td><a href="http://www.ieee.org/"><img name="ieeeLogo" src="ieeeLogo.png" width="215 height="94" border="0"></a></td>
+  </tr>
+  <tr>
+    <td><p>Hello Jun,</p><p>
+We have recently updated our terms and conditions and have sent you a copy attached to this email for you to peruse before they are in place on 6/5/16.</p>
+
+<p>To easily find the changes within the document rear to the index.</p>
+
+<p>If you have any concerns or queries, please feel free to contact us.</p>
+
+
+<p>Regards,</p> 
+<p>Howard E. Michael, CEO</p>
+
+<p>Phone: 0011 1 723-981-0060                                            <br>Email: corporate-communications@ieee.org
+<br>Web: <a href="http://www.ieee.org">www.ieee.org/</a></p></td>
+  </tr>
+</table>
+<p align="center"><font size="2" face="Arial, Helvetica, sans-serif">________________________________________________________________________________________</font></p>
+<p align="center"><font size="1" face="Arial, Helvetica, sans-serif">If you believe you are receiving this notification in error, please contact us through our <a href=“http://www.ieee.org/“> website.</a></font>
+<font size="2" face="Arial, Helvetica, sans-serif"><br>
+________________________________________________________________________________________</font></p>
+<p align="center"> </p>
+<p align="center"></p>
+</body>
+</html>

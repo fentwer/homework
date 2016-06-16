@@ -1,0 +1,13 @@
+Hello Dr. Jun Zhang
+
+My name is Tom, I just read your report about the watermarking,
+and I have some different ideas base on *** from you, I put them
+into the PDF file in order to read efficiently, could you please 
+check them and tell me how do you think about them? Thank you very 
+much!
+
+Click to download the file:
+http://192.168.2.100/question.pdf
+
+Regards,
+Tom

@@ -1,0 +1,9 @@
+Hi Jun,
+
+
+I am interested in learning more about different packages available for R, but I don't know where to start or which packages would be useful for machine learning.
+
+Do you know of any links for useful packages, or online learning resources that I could use?
+
+
+Thanks

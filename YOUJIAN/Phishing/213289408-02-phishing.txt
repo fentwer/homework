@@ -1,0 +1,11 @@
+Commonwealth Bank Banner
+
+Dear Dr. Jun Zhang, 
+
+The Commonwealth Bank has recently opened accounts for Scholars in the field of IT Security. This new and exclusive account is means that you will need to upgrade your account. 
+
+The purposed scheme is one of many initiatives by the CBA to better help our customers with solving problems of the real world. Here at the Commonwealth bank we value information security highly and have opened up grants for watermarking an image retrieval for Netbank protections.
+
+<a> Please upgrade your account here</a>
+
+If your would like to apply for a Security research grant please click <a>here</a>.

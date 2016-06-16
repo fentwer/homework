@@ -1,0 +1,19 @@
+From: (William Confalonieri) <william.confalonieri.deakin.edu.au> 
+To: All Staff <all-staff-b@deakin.edu.au>
+Subject: MALWARE on Scam-email
+
+Message: 
+
+Dear Colleagues,
+Deakin eSolutions have been advised that there is yet another scam email in circulation, this time pretending to offer a free upgrade to Windows 10. 
+The email has a zip file attached which when opened will install ransomware on your computer 
+This is the malware which encrypts every file on your PC plus any Deakin network shares and asks for a ransom to decrypt your files.
+If you receive this sort of email please just delete it.
+Microsoft never distributes patches or upgrades via email!
+The eSolutions Service Desk (03 5227 2400) can assist if required.
+
+
+Kind Regards,
+William Confalonieri
+Chief Digital Officer
+Deakin University 

@@ -1,0 +1,4 @@
+Hello, Dr. Zhang!
+This is Sam(12345678) from SIT384. I have few questions about lecture and R programming. May I book I time with you when you are free to discuss the questions? Thank you
+Regards
+Sam

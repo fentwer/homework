@@ -1,0 +1,17 @@
+From: Adrian Chen <adchen@deakin.edu.au>
+To:  Jun Zhang <jun.zhang@deakin.edu.au>
+Subject: Twitter spam detection model
+Message:
+
+Hi Dr Jun Zhang,
+
+I am a PhD student and have read lots of articles on Twitter spam.
+After asking for some tips from Doctor Wanlei Zhou, I have created a Twitter spam detection model based on your article about 6 million spam Tweets.
+I am having a bit of trouble with the performace of the classifiers of the models and the model's accuracy.
+Could you please watch the video by clicking on the URL: http://www.youtube.com/%fw/Spam./ljhnju
+Any feedbacks given would be appreciated.
+
+Kind Regards,
+Adrian CHen
+Deakin UNIVERSITY
+

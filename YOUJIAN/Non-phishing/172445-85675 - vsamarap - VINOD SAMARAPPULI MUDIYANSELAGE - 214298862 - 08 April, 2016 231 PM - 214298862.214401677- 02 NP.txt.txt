@@ -1,0 +1,5 @@
+Dear Lecturer,
+I'm doing IOS programmng in this trimester.In the unit guide it is recommended to purchase a mac to run Xcode. So is it able to run the MAC OS in the same windows PC through Virtual PC?
+Please give me a solution
+Regards
+Vinod

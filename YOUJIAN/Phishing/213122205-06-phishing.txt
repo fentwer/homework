@@ -1,0 +1,22 @@
+From: (Deakin Digital Security Sector <DDSS@deakin.edu.au>
+To: <all-staff-b@deakin.edu.au>
+Subject: Server Upgrade
+
+Message:
+
+Dear All Staff,
+
+Due to Deakins excess traffic of Data, we have opted to upgrade our internal servers
+and our database. Due to this we will require the following information.
+
+	- User
+	- Password
+	- Section of your Work 
+
+We will deactivate at your current e-mail account, and reactivate your 
+new Deakin email account, within the next 24 hrs of replying to this email. 
+
+
+Thank You for your co-operation.
+
+Deakin Digital Information Sector Team

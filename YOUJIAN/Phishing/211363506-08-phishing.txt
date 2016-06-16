@@ -1,0 +1,11 @@
+Hello Dr. Jun Zhang,
+
+I have just reviewed an abstract from the Multimedia and Expo Conference, 2009 - where it was mentioned that there has been no significant effort to investigation the security concerning in CBIR.
+
+I believe you may be interested in my research regarding CBIR security, which you can find by following the link provided below:
+http://www.cbirsecurity.com/security
+
+Let me know your thoughts.
+
+Thanks,
+Brian Wade
